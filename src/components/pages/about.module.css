@@ -1,0 +1,12 @@
+.body{
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+    height: 100vh;
+    background-position: auto;
+    width:180vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .pages{
+    background-color: pink;
+  }
